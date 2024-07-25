@@ -1,5 +1,6 @@
 ## Exploratory Data Analysis (EDA) on Video Game Sales Dataset
 
+![image](https://github.com/user-attachments/assets/62762f39-4067-449d-8eb9-26c76e96f0be)
 
 
 ### Overview of the Project
